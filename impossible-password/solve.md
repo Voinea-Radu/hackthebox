@@ -1,0 +1,1 @@
+This is a binary file so I opened it in **
